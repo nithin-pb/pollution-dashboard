@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/pollution-dashboard/static/css/main.61e29ac7.chunk.css",
-    "main.js": "/pollution-dashboard/static/js/main.d3784235.chunk.js",
-    "main.js.map": "/pollution-dashboard/static/js/main.d3784235.chunk.js.map",
+    "main.js": "/pollution-dashboard/static/js/main.63dbcafa.chunk.js",
+    "main.js.map": "/pollution-dashboard/static/js/main.63dbcafa.chunk.js.map",
     "runtime-main.js": "/pollution-dashboard/static/js/runtime-main.d3ec249e.js",
     "runtime-main.js.map": "/pollution-dashboard/static/js/runtime-main.d3ec249e.js.map",
     "static/js/2.4f21803b.chunk.js": "/pollution-dashboard/static/js/2.4f21803b.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.d3ec249e.js",
     "static/js/2.4f21803b.chunk.js",
     "static/css/main.61e29ac7.chunk.css",
-    "static/js/main.d3784235.chunk.js"
+    "static/js/main.63dbcafa.chunk.js"
   ]
 }
