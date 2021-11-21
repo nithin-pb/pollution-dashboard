@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/pollution-dashboard/static/css/main.61e29ac7.chunk.css",
-    "main.js": "/pollution-dashboard/static/js/main.63dbcafa.chunk.js",
-    "main.js.map": "/pollution-dashboard/static/js/main.63dbcafa.chunk.js.map",
+    "main.css": "/pollution-dashboard/static/css/main.d9ef75b0.chunk.css",
+    "main.js": "/pollution-dashboard/static/js/main.03b72706.chunk.js",
+    "main.js.map": "/pollution-dashboard/static/js/main.03b72706.chunk.js.map",
     "runtime-main.js": "/pollution-dashboard/static/js/runtime-main.d3ec249e.js",
     "runtime-main.js.map": "/pollution-dashboard/static/js/runtime-main.d3ec249e.js.map",
     "static/js/2.4f21803b.chunk.js": "/pollution-dashboard/static/js/2.4f21803b.chunk.js",
     "static/js/2.4f21803b.chunk.js.map": "/pollution-dashboard/static/js/2.4f21803b.chunk.js.map",
     "index.html": "/pollution-dashboard/index.html",
-    "static/css/main.61e29ac7.chunk.css.map": "/pollution-dashboard/static/css/main.61e29ac7.chunk.css.map",
+    "static/css/main.d9ef75b0.chunk.css.map": "/pollution-dashboard/static/css/main.d9ef75b0.chunk.css.map",
     "static/js/2.4f21803b.chunk.js.LICENSE.txt": "/pollution-dashboard/static/js/2.4f21803b.chunk.js.LICENSE.txt",
     "static/media/index.scss": "/pollution-dashboard/static/media/img.93a1358a.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.d3ec249e.js",
     "static/js/2.4f21803b.chunk.js",
-    "static/css/main.61e29ac7.chunk.css",
-    "static/js/main.63dbcafa.chunk.js"
+    "static/css/main.d9ef75b0.chunk.css",
+    "static/js/main.03b72706.chunk.js"
   ]
 }
