@@ -1,0 +1,24 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto', sans-serif;
+  height: 100vh;
+  overflow: auto;
+  background: url("/assets/img.jpg");
+  background-size: cover;
+}
+
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+
+
+:root {
+  --pd-primary-color: #fff;
+  --pd-secondary-color: #fff;
+  --pd-font-color-1: #1a1a1c;
+  --pd-font-color-2: #7A8B94;
+  --pd-background-color-1: rgba(252, 252, 252, 0.75);
+  --pd-border-1: 1px solid #7A8B94;
+  --pd-shadow-1: 0 1px 2px 1px rgb(0 0 0 / 24%);
+}
