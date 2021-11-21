@@ -103,4 +103,4 @@ export default function Graph(props: IGraph) {
 }
 
 
-const pollutionData = ['co', 'o3', 'pm10', 'pm25', 'so2', 'no2', 'All']
+const pollutionData = ['co', 'pm10', 'pm25', 'o3', 'so2', 'no2', 'All']

@@ -15,11 +15,17 @@ export default function Dashboard() {
         setDate(e.target.value)
     }
 
+    const adjust = Boolean(date && location)
     return (
-        <div className={'dashboard-wrapper'}>
-            <Typography variant={'h4'} gutterBottom sx={{mb: 3, fontWeight: 600}} color={'textSecondary'}> Pollution Information</Typography>
-            <LocationSearch onDateChange={handleDateChange} onLocationChange={handleLocationChange}/>
-            <Graph date={date} location={location}/>
+        <div className={'dashboard-wrapper dashboard-properties'}>
+            <div className={adjust ? 'dashboard-properties' : 'dashboard-visual-aligner dashboard-properties'}>
+                <Typography variant={'h4'} gutterBottom sx={{mb: 3, fontWeight: 600}} align={'center'}
+                            color={'textSecondary'}>
+                    Pollution Information
+                </Typography>
+                <LocationSearch onDateChange={handleDateChange} onLocationChange={handleLocationChange}/>
+                <Graph date={date} location={location}/>
+            </div>
         </div>
     )
 }

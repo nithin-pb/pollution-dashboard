@@ -1,10 +1,18 @@
 .dashboard-wrapper {
+  background-color: var(--pd-background-color-1);
+  backdrop-filter: blur(5px);
+}
+
+.dashboard-properties {
   height: 100vh;
   display: flex;
   width: 100vw;
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  background-color: var(--pd-background-color-1);
-  backdrop-filter: blur(5px);
+}
+
+
+.dashboard-visual-aligner {
+  margin-top: -8%;
 }
